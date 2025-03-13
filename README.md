@@ -12,7 +12,7 @@
 
 ## 🎮 Controls
 
-- **Press** **`Space`** – Flappy jumps
+- **Press** **`Space`** – Flappy flies
 - **Press** **`P`** – Pause/Resume the game
 - **Press** **`G`** – Quit the game
 
